@@ -1,0 +1,4 @@
+//<'Bot_ServerScripts.pbo' properties via Mikero's dos tools, dll version 8.01>
+prefix=Bot_ServerScript;
+//PboType=Arma Addon;
+//</properties>
